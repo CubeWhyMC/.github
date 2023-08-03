@@ -21,3 +21,9 @@ Repository: [LiquidLunar](https://github.com/CubeWhyMC/LiquidLunar)
 Java implementation of LunarClient Launcher
 
 Repository: [LauncherLib](https://github.com/CubeWhyMC/LauncherLib)
+
+### LunarUC
+
+LunarClient Cosmetics Unlocker, LunarCN Patch for LCQT Unlocker
+
+Repository: [LunarUC](https://github.com/CubeWhyMC/LunarUC)
