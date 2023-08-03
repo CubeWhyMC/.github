@@ -22,8 +22,30 @@ Java implementation of LunarClient Launcher
 
 Repository: [LauncherLib](https://github.com/CubeWhyMC/LauncherLib)
 
-### LunarUC
+### LunarClient Addons
+
+Addon for LunarClient
+
+#### LunarUC
 
 LunarClient Cosmetics Unlocker, LunarCN Patch for LCQT Unlocker
 
+Type: JavaAgent
+
 Repository: [LunarUC](https://github.com/CubeWhyMC/LunarUC)
+
+#### LunarPS
+
+LunarClient Proxy Setter, use proxies on LunarClient
+
+Type: LunarCN-Mod
+
+Repository: [LunarPS](https://github.com/CubeWhyMC/LunarPS)
+
+#### LunarWSR
+
+LunarClient WebSocket Redirector
+
+Type: LunarCN-Mod
+
+Repository: [LunarWSR](https://github.com/CubeWhyMC/LunarWSR)
