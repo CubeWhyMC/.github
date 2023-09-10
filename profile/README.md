@@ -22,6 +22,12 @@ Java implementation of LunarClient Launcher
 
 Repository: [LauncherLib](https://github.com/CubeWhyMC/LauncherLib)
 
+### API
+
+Full LunarClient API, write in Java (100% write by muskf and me)
+
+Repository: [api](https://github.com/CubeWhyMC/api)
+
 ### LunarClient Addons
 
 Addon for LunarClient
