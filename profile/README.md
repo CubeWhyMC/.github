@@ -26,7 +26,7 @@ Repository: [LauncherLib](https://github.com/CubeWhyMC/LauncherLib)
 
 Full LunarClient API, write in Java (100% write by muskf and me)
 
-Repository: [api](https://github.com/CubeWhyMC/api)
+Repository: [api](https://github.com/CubeWhyMC/website)
 
 ### LunarClient Addons
 
