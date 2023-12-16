@@ -4,9 +4,15 @@ A small development team from China
 
 ## Projects
 
+### Celestial
+
+> This project is a replacement for LunarCN, supports cross-platform, and does not have electron
+
+Repository: [celestial](https://github.com/CubeWhyMC/celestial)
+
 ### Lunar Client CN
 
-> LunarCN is saying Farewell :(
+> LunarCN is saying Farewell, becase electron is s**t :(
 
 Modify LunarClient easily, own mod loader (Based on [Weave-Loader](https://github.com/Weave-MC))
 
