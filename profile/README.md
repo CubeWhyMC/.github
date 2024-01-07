@@ -12,7 +12,7 @@ Repository: [celestial](https://github.com/CubeWhyMC/celestial)
 
 ### Lunar Client CN
 
-> LunarCN is saying Farewell, becase electron is s**t :(
+> Deprecated! Try our new [launcher](https://github.com/CubeWhyMC/celestial)
 
 Modify LunarClient easily, own mod loader (Based on [Weave-Loader](https://github.com/Weave-MC))
 
@@ -26,24 +26,18 @@ Repository: [LiquidLunar](https://github.com/CubeWhyMC/LiquidLunar)
 
 ### LunarClient Launcher Lib
 
-Java implementation of LunarClient Launcher
+> Deprecated! Try our new [launcher](https://github.com/CubeWhyMC/celestial)
+
+Java&Python implementation of LunarClient Launcher
 
 Repository: [LauncherLib](https://github.com/CubeWhyMC/LauncherLib)
 
+Repository: [PyLauncherLib](https://github.com/CubeWhyMC/PyLauncherLib)
+
 ### API
 
-> https://lunarclient.top source
+> https://www.lunarclient.top source
 
-Full LunarClient API, write in Java (100% write by muskf and me)
+Full LC API, write in Java
 
 Repository: [website](https://github.com/CubeWhyMC/website)
-
-Repository: [LunarPS](https://github.com/CubeWhyMC/LunarPS)
-
-#### LunarWSR
-
-LunarClient WebSocket Redirector
-
-Type: LunarCN-Mod
-
-Repository: [LunarWSR](https://github.com/CubeWhyMC/LunarWSR)
