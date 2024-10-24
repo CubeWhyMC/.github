@@ -18,6 +18,14 @@ Modify LunarClient easily, own mod loader (Based on [Weave-Loader](https://githu
 
 Repository: [LunarClient-CN](https://github.com/CubeWhyMC/LunarClient-CN)
 
+### DingZhen Servlet
+
+> DingZhen mean 丁真, which an internet celebrity smokes Relx V5 [Wikipedia](https://zh.wikipedia.org/zh-cn/%E4%B8%81%E7%9C%9F%E7%8F%8D%E7%8F%A0?wprov=sfla1)
+
+Do you like smoke? I think you'll not, me either.
+
+Repository: [DingZhenServlet](https://github.com/CubeWhyMC/DingZhenServlet)
+
 ### LiquidLunar
 
 A Minecraft PVP client using [Minecraft Forge](https://files.minecraftforge.net) and [Mixin](https://github.com/SpongePowered/Mixin/)
