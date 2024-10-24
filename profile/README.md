@@ -22,7 +22,7 @@ Repository: [LunarClient-CN](https://github.com/CubeWhyMC/LunarClient-CN)
 
 > DingZhen mean 丁真, which an internet celebrity smokes Relx V5 [Wikipedia](https://zh.wikipedia.org/zh-cn/%E4%B8%81%E7%9C%9F%E7%8F%8D%E7%8F%A0?wprov=sfla1)
 
-Do you like smoke? I think you'll not, me either.
+Do you like smoke? I think you don't, me either.
 
 Repository: [DingZhenServlet](https://github.com/CubeWhyMC/DingZhenServlet)
 
